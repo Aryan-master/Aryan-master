@@ -8,8 +8,8 @@ Developer, problem solver and a team player. I code anything that makes life eas
 
 * 🌍  I'm based in Jalandhar, Punjab.
 * ✉️  You can contact me at [aryannigam032@gmail.com](mailto:aryannigam032@gmail.com)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on React Applications/ API Development.
+* 🧠  I'm learning Full-Stack
+* 🤝  I'm open to collaborating on React and Angular Applications/ API Development.
 
 ### Skills
 
