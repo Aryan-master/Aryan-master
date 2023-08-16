@@ -32,8 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aryan-master/Aryan-master/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
